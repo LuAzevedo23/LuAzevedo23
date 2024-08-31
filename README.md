@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img alt="snake eating my contribution" src="https://raw.githubusercontent.com/goisEstudos/goisEstudos/output/github-contribution-grid-snake-dark.svg" />
+<img alt="snake eating my contribution" src="https://raw.githubusercontent.com/LuAzevedo23/LuAzevedo23/output/github-contribution-grid-snake-dark.svg" />
 
 ###
