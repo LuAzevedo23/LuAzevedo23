@@ -34,12 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodedotjs/nodedotjs-original.svg" height="30" alt="n8n logo" />
-  <img width="12" />
-  <img src="https://cursor.sh/images/icon-256.png" height="30" alt="Cursor logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stripe/stripe-original.svg" height="30" alt="Stripe logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel logo" />
   <img width="12" />
   <img src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg" height="30" alt="Photoshop logo" />
